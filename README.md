@@ -1,4 +1,4 @@
-#Banking System (C++ OOP)#
+<h1> Banking System (C++ OOP) </h1>
 Description
 This project is a simple Banking System implemented using Object-Oriented Programming (OOP) concepts in C++. The system allows users to create, deposit, withdraw, and check the balance of their bank accounts. It features both Savings and Current accounts, utilizing core OOP principles like Encapsulation, Inheritance, and Polymorphism.
 
