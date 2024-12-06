@@ -9,11 +9,11 @@ Interest Calculation: Interest is calculated and added to Savings accounts. <br>
 Overdraft Protection: Current accounts can handle overdraft limits. <br>
 Balance Display: Users can check their account balance anytime. <br>
 <br>
-OOP Concepts Used <br>
+OOP Concepts Used: <br>
 Encapsulation: Account details (like balance and account number) are hidden from the outside world and accessed via methods. <br>
 Inheritance: Common features (like deposit and withdraw methods) are inherited in the SavingsAccount and CurrentAccount classes. <br>
 Polymorphism: Different behaviors (e.g., withdrawal rules) are implemented for different account types using function overriding. <br>
-
+<br>
 Requirements <br>
 C++ compiler (e.g., GCC or Clang)
 C++11 or later for best compatibility
