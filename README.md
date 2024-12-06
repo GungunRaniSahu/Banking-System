@@ -15,5 +15,5 @@ Inheritance: Common features (like deposit and withdraw methods) are inherited i
 Polymorphism: Different behaviors (e.g., withdrawal rules) are implemented for different account types using function overriding. <br>
 <br>
 Requirements <br>
-C++ compiler (e.g., GCC or Clang)
+C++ compiler (e.g., GCC or Clang) <br>
 C++11 or later for best compatibility
