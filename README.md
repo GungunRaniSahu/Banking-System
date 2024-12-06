@@ -8,7 +8,7 @@ Deposit/Withdrawal: Secure deposit and withdrawal functionality. <br>
 Interest Calculation: Interest is calculated and added to Savings accounts. <br>
 Overdraft Protection: Current accounts can handle overdraft limits. <br>
 Balance Display: Users can check their account balance anytime. <br>
-
+<br>
 OOP Concepts Used <br>
 Encapsulation: Account details (like balance and account number) are hidden from the outside world and accessed via methods.
 
